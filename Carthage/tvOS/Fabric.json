@@ -1,4 +1,6 @@
 {
+  "1.7.0": "https://kit-downloads.fabric.io/tvos/io.fabric.sdk.tvos/1.7.0/io.fabric.sdk.tvos-default.zip",
+  "1.6.13": "https://kit-downloads.fabric.io/tvos/io.fabric.sdk.tvos/1.6.13/io.fabric.sdk.tvos-default.zip",
   "1.6.12": "https://kit-downloads.fabric.io/tvos/io.fabric.sdk.tvos/1.6.12/io.fabric.sdk.tvos-default.zip",
   "1.6.11": "https://kit-downloads.fabric.io/tvos/io.fabric.sdk.tvos/1.6.11/io.fabric.sdk.tvos-default.zip"
 }
