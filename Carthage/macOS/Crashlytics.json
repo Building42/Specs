@@ -1,4 +1,6 @@
 {
+  "3.10.1": "https://kit-downloads.fabric.io/mac/com.twitter.crashlytics.mac/3.10.1/com.twitter.crashlytics.mac-default.zip",
+  "3.10.0": "https://kit-downloads.fabric.io/mac/com.twitter.crashlytics.mac/3.10.0/com.twitter.crashlytics.mac-default.zip",
   "3.9.3": "https://kit-downloads.fabric.io/mac/com.twitter.crashlytics.mac/3.9.3/com.twitter.crashlytics.mac-default.zip",
   "3.9.0": "https://kit-downloads.fabric.io/mac/com.twitter.crashlytics.mac/3.9.0/com.twitter.crashlytics.mac-default.zip",
   "3.8.6": "https://kit-downloads.fabric.io/mac/com.twitter.crashlytics.mac/3.8.6/com.twitter.crashlytics.mac-default.zip",
