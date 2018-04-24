@@ -1,20 +1,20 @@
 #### iOS
 ```
-binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/Fabric.json"
-binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/Crashlytics.json"
-binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/Answers.json"
+binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/iOS/Fabric-iOS.json"
+binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/iOS/Crashlytics-iOS.json"
+binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/iOS/Answers-iOS.json"
 ```
 
 #### tvOS
 ```
-binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Fabric.json"
-binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Crashlytics.json"
-binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Answers.json"
+binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Fabric-tvOS.json"
+binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Crashlytics-tvOS.json"
+binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Answers-tvOS.json"
 ```
 
 #### macOS
 ```
-binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Fabric.json"
-binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Crashlytics.json"
-binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Answers.json"
+binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Fabric-macOS.json"
+binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Crashlytics-macOS.json"
+binary "https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Answers-macOS.json"
 ```
