@@ -7,24 +7,24 @@ This repository was set up in an effort to centralize these JSON files.
 ## Frameworks
 
 ### Answers
-Analytics engine that powers the Fabric platform (requires the Fabric framework).  
+Analytics engine that powers the Fabric platform (requires the Fabric framework).<br>
 Website: https://fabric.io/kits/ios/answers
 
 | Platform | Lines to add to your Cartfile |
 | -------- | -------- |
-| iOS      | `https://raw.githubusercontent.com/Building42/Specs/master/Carthage/Answers.json`<br>`https://raw.githubusercontent.com/Building42/Specs/master/Carthage/Fabric.json` |
-| tvOS     | `https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Answers.json`<br>`https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Fabric.json` |
-| macOS    | `https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Answers.json`<br>`https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Fabric.json` |
+| iOS      | `binary "https://building42.github.io/Specs/Carthage/iOS/Answers.json"`<br>`binary "https://building42.github.io/Specs/Carthage/iOS/Fabric.json"` |
+| tvOS     | `binary "https://building42.github.io/Specs/Carthage/tvOS/Answers.json"`<br>`binary "https://building42.github.io/Specs/Carthage/tvOS/Fabric.json"` |
+| macOS    | `binary "https://building42.github.io/Specs/Carthage/macOS/Answers.json"`<br>`binary "https://building42.github.io/Specs/Carthage/macOS/Fabric.json"` |
 
 ### Crashlytics
-Powerful, yet lightweight crash reporting solution (requires the Fabric framework).  
+Powerful, yet lightweight crash reporting solution (requires the Fabric framework).<br>
 Website: https://fabric.io/kits/ios/crashlytics
 
 | Platform | Lines to add to your Cartfile |
 | -------- | -------- |
-| iOS      | `https://raw.githubusercontent.com/Building42/Specs/master/Carthage/Crashlytics.json`<br>`https://raw.githubusercontent.com/Building42/Specs/master/Carthage/Fabric.json` |
-| tvOS     | `https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Crashlytics.json`<br>`https://raw.githubusercontent.com/Building42/Specs/master/Carthage/tvOS/Fabric.json` |
-| macOS    | `https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Crashlytics.json`<br>`https://raw.githubusercontent.com/Building42/Specs/master/Carthage/macOS/Fabric.json` |
+| iOS      | `binary "https://building42.github.io/Specs/Carthage/iOS/Crashlytics.json"`<br>`binary "https://building42.github.io/Specs/Carthage/iOS/Fabric.json"` |
+| tvOS     | `binary "https://building42.github.io/Specs/Carthage/tvOS/Crashlytics.json"`<br>`binary "https://building42.github.io/Specs/Carthage/tvOS/Fabric.json"` |
+| macOS    | `binary "https://building42.github.io/Specs/Carthage/macOS/Crashlytics.json"`<br>`binary "https://building42.github.io/Specs/Carthage/macOS/Fabric.json"` |
 
 ## Contribute
 
