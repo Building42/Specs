@@ -8,7 +8,7 @@ This repository was set up in an effort to centralize these JSON files.
 
 ### Answers
 Analytics engine that powers the Fabric platform (requires the Fabric framework).<br>
-Website: https://fabric.io/kits/ios/answers
+Website: [https://fabric.io/kits/ios/answers](https://fabric.io/kits/ios/answers)
 
 | Platform | Lines to add to your Cartfile |
 | -------- | -------- |
@@ -18,7 +18,7 @@ Website: https://fabric.io/kits/ios/answers
 
 ### Crashlytics
 Powerful, yet lightweight crash reporting solution (requires the Fabric framework).<br>
-Website: https://fabric.io/kits/ios/crashlytics
+Website: [https://fabric.io/kits/ios/crashlytics](https://fabric.io/kits/ios/crashlytics)
 
 | Platform | Lines to add to your Cartfile |
 | -------- | -------- |
