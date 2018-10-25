@@ -29,4 +29,3 @@ Website: [https://fabric.io/kits/ios/crashlytics](https://fabric.io/kits/ios/cra
 ## Contribute
 
 If you want to add a popular framework to this list or if you notice that one of the JSON files is outdated, feel free to drop me a [pull request](https://github.com/Building42/Specs/pulls) and I'll merge it in.
-
