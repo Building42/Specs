@@ -1,4 +1,13 @@
 {
+  "1.8.0": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.8.0/io.fabric.sdk.mac-default.zip",
+  "1.7.13": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.13/io.fabric.sdk.mac-default.zip",
+  "1.7.12": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.12/io.fabric.sdk.mac-default.zip",
+  "1.7.11": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.11/io.fabric.sdk.mac-default.zip",
+  "1.7.9": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.9/io.fabric.sdk.mac-default.zip",
+  "1.7.8": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.8/io.fabric.sdk.mac-default.zip",
+  "1.7.7": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.7/io.fabric.sdk.mac-default.zip",
+  "1.7.6": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.6/io.fabric.sdk.mac-default.zip",
+  "1.7.5": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.5/io.fabric.sdk.mac-default.zip",
   "1.7.2": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.2/io.fabric.sdk.mac-default.zip",
   "1.7.1": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.1/io.fabric.sdk.mac-default.zip",
   "1.7.0": "https://kit-downloads.fabric.io/mac/io.fabric.sdk.mac/1.7.0/io.fabric.sdk.mac-default.zip",
